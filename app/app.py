@@ -58,4 +58,3 @@ def register_namespaces(app_api):
     app_api.add_namespace(example_namespace, path='/api/example')
 
     # Add more namespaces here
-
