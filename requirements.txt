@@ -2,7 +2,7 @@
 flask-restx
 flask-cors
 requests~=2.28.1
-urllib3~=1.26.12
+urllib3~=1.26.14
 # Note: These two libraries are not latest because they don't support Python >3.8
 flask==2.1.3
 werkzeug==2.1.2
